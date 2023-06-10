@@ -1,0 +1,12 @@
+C:\Users\Michael Pate\Downloads\Thermal Printer Windows SDK\Thermal Printer 80mm And 58mm Windows SDK\PrinterControl\bin\Debug\PrinterControl.exe.config
+C:\Users\Michael Pate\Downloads\Thermal Printer Windows SDK\Thermal Printer 80mm And 58mm Windows SDK\PrinterControl\bin\Debug\PrinterControl.exe
+C:\Users\Michael Pate\Downloads\Thermal Printer Windows SDK\Thermal Printer 80mm And 58mm Windows SDK\PrinterControl\bin\Debug\PrinterControl.pdb
+C:\Users\Michael Pate\Downloads\Thermal Printer Windows SDK\Thermal Printer 80mm And 58mm Windows SDK\PrinterControl\bin\Debug\POSDLL.dll
+C:\Users\Michael Pate\Downloads\Thermal Printer Windows SDK\Thermal Printer 80mm And 58mm Windows SDK\PrinterControl\obj\Debug\PrinterControl.csproj.AssemblyReference.cache
+C:\Users\Michael Pate\Downloads\Thermal Printer Windows SDK\Thermal Printer 80mm And 58mm Windows SDK\PrinterControl\obj\Debug\PrinterControl.Form1.resources
+C:\Users\Michael Pate\Downloads\Thermal Printer Windows SDK\Thermal Printer 80mm And 58mm Windows SDK\PrinterControl\obj\Debug\PrinterControl.Properties.Resources.resources
+C:\Users\Michael Pate\Downloads\Thermal Printer Windows SDK\Thermal Printer 80mm And 58mm Windows SDK\PrinterControl\obj\Debug\PrinterControl.csproj.GenerateResource.cache
+C:\Users\Michael Pate\Downloads\Thermal Printer Windows SDK\Thermal Printer 80mm And 58mm Windows SDK\PrinterControl\obj\Debug\PrinterControl.csproj.CoreCompileInputs.cache
+C:\Users\Michael Pate\Downloads\Thermal Printer Windows SDK\Thermal Printer 80mm And 58mm Windows SDK\PrinterControl\obj\Debug\PrinterControl.csproj.CopyComplete
+C:\Users\Michael Pate\Downloads\Thermal Printer Windows SDK\Thermal Printer 80mm And 58mm Windows SDK\PrinterControl\obj\Debug\PrinterControl.exe
+C:\Users\Michael Pate\Downloads\Thermal Printer Windows SDK\Thermal Printer 80mm And 58mm Windows SDK\PrinterControl\obj\Debug\PrinterControl.pdb

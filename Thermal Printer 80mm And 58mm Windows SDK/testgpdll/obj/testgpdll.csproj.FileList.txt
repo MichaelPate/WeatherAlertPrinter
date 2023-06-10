@@ -1,0 +1,8 @@
+bin\Debug\testgpdll.exe
+bin\Debug\testgpdll.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\testgpdll.Properties.Resources.resources
+obj\Debug\testgpdll.csproj.GenerateResource.Cache
+obj\Debug\testgpdll.exe
+obj\Debug\testgpdll.pdb
+obj\Debug\testgpdll.Form1.resources

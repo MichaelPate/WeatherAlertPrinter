@@ -1,0 +1,27 @@
+M:\work\code\RP80 SDK 131210-中文-windows端\testkc80dll\testgpdll\obj\Debug\testgpdll.exe
+M:\work\code\RP80 SDK 131210-中文-windows端\testkc80dll\testgpdll\obj\Debug\testgpdll.pdb
+M:\work\code\RP80 SDK 131210-中文-windows端\testkc80dll\testgpdll\bin\Debug\testgpdll.exe
+M:\work\code\RP80 SDK 131210-中文-windows端\testkc80dll\testgpdll\bin\Debug\testgpdll.pdb
+M:\work\code\RP80 SDK 131210-中文-windows端\testkc80dll\testgpdll\bin\Debug\POSDLL.pdb
+M:\work\code\RP80 SDK 131210-中文-windows端\testkc80dll\testgpdll\obj\Debug\ResolveAssemblyReference.cache
+M:\work\code\RP80 SDK 131210-中文-windows端\testkc80dll\testgpdll\obj\Debug\testgpdll.Form1.resources
+M:\work\code\RP80 SDK 131210-中文-windows端\testkc80dll\testgpdll\obj\Debug\testgpdll.Properties.Resources.resources
+M:\work\code\RP80 SDK 131210-中文-windows端\testkc80dll\testgpdll\obj\Debug\testgkc80dll.csproj.GenerateResource.Cache
+E:\Code\RP80 SDK 131210-中文-windows端\testkc80dll\testgpdll\obj\Debug\testgpdll.exe
+E:\Code\RP80 SDK 131210-中文-windows端\testkc80dll\testgpdll\obj\Debug\testgpdll.pdb
+E:\Code\RP80 SDK 131210-中文-windows端\testkc80dll\testgpdll\bin\Debug\testgpdll.exe
+E:\Code\RP80 SDK 131210-中文-windows端\testkc80dll\testgpdll\bin\Debug\testgpdll.pdb
+E:\Code\RP80 SDK 131210-中文-windows端\testkc80dll\testgpdll\obj\Debug\ResolveAssemblyReference.cache
+E:\Code\RP80 SDK 131210-中文-windows端\testkc80dll\testgpdll\obj\Debug\testgpdll.Form1.resources
+E:\Code\RP80 SDK 131210-中文-windows端\testkc80dll\testgpdll\obj\Debug\testgpdll.Properties.Resources.resources
+E:\Code\RP80 SDK 131210-中文-windows端\testkc80dll\testgpdll\obj\Debug\testgkc80dll.csproj.GenerateResource.Cache
+C:\Users\Michael Pate\Downloads\Thermal Printer Windows SDK\Thermal Printer 80mm And 58mm Windows SDK\testgpdll\bin\Debug\testgpdll.exe
+C:\Users\Michael Pate\Downloads\Thermal Printer Windows SDK\Thermal Printer 80mm And 58mm Windows SDK\testgpdll\bin\Debug\testgpdll.pdb
+C:\Users\Michael Pate\Downloads\Thermal Printer Windows SDK\Thermal Printer 80mm And 58mm Windows SDK\testgpdll\obj\Debug\testgkc80dll.csproj.AssemblyReference.cache
+C:\Users\Michael Pate\Downloads\Thermal Printer Windows SDK\Thermal Printer 80mm And 58mm Windows SDK\testgpdll\obj\Debug\testgpdll.Form1.resources
+C:\Users\Michael Pate\Downloads\Thermal Printer Windows SDK\Thermal Printer 80mm And 58mm Windows SDK\testgpdll\obj\Debug\testgpdll.Properties.Resources.resources
+C:\Users\Michael Pate\Downloads\Thermal Printer Windows SDK\Thermal Printer 80mm And 58mm Windows SDK\testgpdll\obj\Debug\testgkc80dll.csproj.GenerateResource.cache
+C:\Users\Michael Pate\Downloads\Thermal Printer Windows SDK\Thermal Printer 80mm And 58mm Windows SDK\testgpdll\obj\Debug\testgkc80dll.csproj.CoreCompileInputs.cache
+C:\Users\Michael Pate\Downloads\Thermal Printer Windows SDK\Thermal Printer 80mm And 58mm Windows SDK\testgpdll\obj\Debug\testgkc80dll.csproj.CopyComplete
+C:\Users\Michael Pate\Downloads\Thermal Printer Windows SDK\Thermal Printer 80mm And 58mm Windows SDK\testgpdll\obj\Debug\testgpdll.exe
+C:\Users\Michael Pate\Downloads\Thermal Printer Windows SDK\Thermal Printer 80mm And 58mm Windows SDK\testgpdll\obj\Debug\testgpdll.pdb
